@@ -1,0 +1,11 @@
+C:\Users\bilginc_user\source\repos\DeviceSystem\App.Data.Infrastructure\bin\Debug\App.Data.Infrastructure.dll
+C:\Users\bilginc_user\source\repos\DeviceSystem\App.Data.Infrastructure\bin\Debug\App.Data.Infrastructure.pdb
+C:\Users\bilginc_user\source\repos\DeviceSystem\App.Data.Infrastructure\bin\Debug\APP.Data.Entity.dll
+C:\Users\bilginc_user\source\repos\DeviceSystem\App.Data.Infrastructure\bin\Debug\CF.Data.Infrastructure.dll
+C:\Users\bilginc_user\source\repos\DeviceSystem\App.Data.Infrastructure\bin\Debug\APP.Data.Entity.pdb
+C:\Users\bilginc_user\source\repos\DeviceSystem\App.Data.Infrastructure\bin\Debug\CF.Data.Infrastructure.pdb
+C:\Users\bilginc_user\source\repos\DeviceSystem\App.Data.Infrastructure\obj\Debug\App.Data.Infrastructure.csprojAssemblyReference.cache
+C:\Users\bilginc_user\source\repos\DeviceSystem\App.Data.Infrastructure\obj\Debug\App.Data.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\bilginc_user\source\repos\DeviceSystem\App.Data.Infrastructure\obj\Debug\App.Data.Infrastructure.csproj.CopyComplete
+C:\Users\bilginc_user\source\repos\DeviceSystem\App.Data.Infrastructure\obj\Debug\App.Data.Infrastructure.dll
+C:\Users\bilginc_user\source\repos\DeviceSystem\App.Data.Infrastructure\obj\Debug\App.Data.Infrastructure.pdb
