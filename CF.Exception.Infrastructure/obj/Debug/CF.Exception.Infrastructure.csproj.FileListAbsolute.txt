@@ -1,0 +1,6 @@
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Exception.Infrastructure\bin\Debug\CF.Exception.Infrastructure.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Exception.Infrastructure\bin\Debug\CF.Exception.Infrastructure.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Exception.Infrastructure\obj\Debug\CF.Exception.Infrastructure.csprojAssemblyReference.cache
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Exception.Infrastructure\obj\Debug\CF.Exception.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Exception.Infrastructure\obj\Debug\CF.Exception.Infrastructure.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Exception.Infrastructure\obj\Debug\CF.Exception.Infrastructure.pdb

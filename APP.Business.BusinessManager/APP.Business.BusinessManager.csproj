@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FFA98C24-FB9D-4410-8665-B429F1E973D8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>APP.Business.BusinessManager</RootNamespace>
+    <AssemblyName>APP.Business.BusinessManager</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DeviceManager.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\APP.Business.Operation.DeviceOperation\APP.Business.Operation.DeviceOperation.csproj">
+      <Project>{AC0AB055-FC5A-456E-912C-DC67085502CA}</Project>
+      <Name>APP.Business.Operation.DeviceOperation</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\APP.Model.WebModel\APP.Model.WebModel.csproj">
+      <Project>{22bb7f05-418b-483e-838c-65fb900b3bb5}</Project>
+      <Name>APP.Model.WebModel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CF.Cache.Infrastucture\CF.Cache.Infrastucture.csproj">
+      <Project>{ba67c2ad-dfee-48d5-83db-eb7af1ec2f80}</Project>
+      <Name>CF.Cache.Infrastucture</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CF.Cache.Manager\CF.Cache.Manager.csproj">
+      <Project>{440738C0-0178-4F12-B550-D464B7754B35}</Project>
+      <Name>CF.Cache.Manager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CF.Exception.DataException\CF.Exception.DataException.csproj">
+      <Project>{BF893C1B-7DD9-44CA-8268-9E6F491AFE5B}</Project>
+      <Name>CF.Exception.DataException</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CF.Exception.Infrastructure\CF.Exception.Infrastructure.csproj">
+      <Project>{C81771F7-B308-4F4A-9FEE-5A22910F2A21}</Project>
+      <Name>CF.Exception.Infrastructure</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

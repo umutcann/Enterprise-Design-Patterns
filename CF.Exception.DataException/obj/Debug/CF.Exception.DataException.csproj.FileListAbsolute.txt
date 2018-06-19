@@ -1,0 +1,9 @@
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Exception.DataException\bin\Debug\CF.Exception.DataException.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Exception.DataException\bin\Debug\CF.Exception.DataException.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Exception.DataException\bin\Debug\CF.Exception.Infrastructure.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Exception.DataException\bin\Debug\CF.Exception.Infrastructure.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Exception.DataException\obj\Debug\CF.Exception.DataException.csprojAssemblyReference.cache
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Exception.DataException\obj\Debug\CF.Exception.DataException.csproj.CoreCompileInputs.cache
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Exception.DataException\obj\Debug\CF.Exception.DataException.csproj.CopyComplete
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Exception.DataException\obj\Debug\CF.Exception.DataException.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Exception.DataException\obj\Debug\CF.Exception.DataException.pdb

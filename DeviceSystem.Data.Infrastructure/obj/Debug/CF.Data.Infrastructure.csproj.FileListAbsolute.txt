@@ -4,3 +4,8 @@ C:\Users\bilginc_user\source\repos\DeviceSystem\DeviceSystem.Data.Infrastructure
 C:\Users\bilginc_user\source\repos\DeviceSystem\DeviceSystem.Data.Infrastructure\obj\Debug\CF.Data.Infrastructure.csproj.CoreCompileInputs.cache
 C:\Users\bilginc_user\source\repos\DeviceSystem\DeviceSystem.Data.Infrastructure\obj\Debug\CF.Data.Infrastructure.dll
 C:\Users\bilginc_user\source\repos\DeviceSystem\DeviceSystem.Data.Infrastructure\obj\Debug\CF.Data.Infrastructure.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\DeviceSystem.Data.Infrastructure\bin\Debug\CF.Data.Infrastructure.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\DeviceSystem.Data.Infrastructure\bin\Debug\CF.Data.Infrastructure.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\DeviceSystem.Data.Infrastructure\obj\Debug\CF.Data.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\DeviceSystem.Data.Infrastructure\obj\Debug\CF.Data.Infrastructure.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\DeviceSystem.Data.Infrastructure\obj\Debug\CF.Data.Infrastructure.pdb

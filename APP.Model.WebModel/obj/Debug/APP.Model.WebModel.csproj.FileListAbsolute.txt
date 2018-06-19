@@ -1,0 +1,5 @@
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Model.WebModel\bin\Debug\APP.Model.WebModel.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Model.WebModel\bin\Debug\APP.Model.WebModel.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Model.WebModel\obj\Debug\APP.Model.WebModel.csproj.CoreCompileInputs.cache
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Model.WebModel\obj\Debug\APP.Model.WebModel.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Model.WebModel\obj\Debug\APP.Model.WebModel.pdb

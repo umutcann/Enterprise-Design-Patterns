@@ -8,9 +8,10 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>APP.TestConsole</RootNamespace>
     <AssemblyName>APP.TestConsole</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -54,28 +55,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="packages.config" />
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\APP.Data.Entity\APP.Data.Entity.csproj">
-      <Project>{aca3f34c-7445-4901-a764-39a44d43019d}</Project>
-      <Name>APP.Data.Entity</Name>
+    <ProjectReference Include="..\APP.Business.BusinessManager\APP.Business.BusinessManager.csproj">
+      <Project>{ffa98c24-fb9d-4410-8665-b429f1e973d8}</Project>
+      <Name>APP.Business.BusinessManager</Name>
     </ProjectReference>
-    <ProjectReference Include="..\App.Data.Infrastructure\APP.Data.Infrastructure.csproj">
-      <Project>{94143719-bb9c-4073-bf19-dc7d3563be4d}</Project>
-      <Name>APP.Data.Infrastructure</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\APP.Data.Repository.Derived.EFRepository\APP.Data.Repository.Derived.EFRepository.csproj">
-      <Project>{0d4b78a9-3230-493e-982f-ae01f3865d58}</Project>
-      <Name>APP.Data.Repository.Derived.EFRepository</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\APP.Data.Repository.Manager\APP.Data.Repository.Manager.csproj">
-      <Project>{22af99ad-ea4e-414d-b7f4-049ba2b3b334}</Project>
-      <Name>APP.Data.Repository.Manager</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\DeviceSystem.Data.Infrastructure\CF.Data.Infrastructure.csproj">
-      <Project>{4e61d3af-eec8-4be5-abd1-a886f2e80f6e}</Project>
-      <Name>CF.Data.Infrastructure</Name>
+    <ProjectReference Include="..\APP.Model.WebModel\APP.Model.WebModel.csproj">
+      <Project>{22bb7f05-418b-483e-838c-65fb900b3bb5}</Project>
+      <Name>APP.Model.WebModel</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -1,0 +1,6 @@
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Helper.Constant\obj\Debug\APP.Helper.Constant.csprojAssemblyReference.cache
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Helper.Constant\obj\Debug\APP.Helper.Constant.csproj.CoreCompileInputs.cache
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Helper.Constant\bin\Debug\APP.Helper.Constant.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Helper.Constant\bin\Debug\APP.Helper.Constant.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Helper.Constant\obj\Debug\APP.Helper.Constant.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Helper.Constant\obj\Debug\APP.Helper.Constant.pdb

@@ -1,0 +1,11 @@
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Cache.Manager\bin\Debug\CF.Cache.Manager.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Cache.Manager\bin\Debug\CF.Cache.Manager.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Cache.Manager\bin\Debug\CF.Cache.Infrastucture.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Cache.Manager\bin\Debug\CF.Cache.Strategy.Memory.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Cache.Manager\bin\Debug\CF.Cache.Infrastucture.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Cache.Manager\bin\Debug\CF.Cache.Strategy.Memory.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Cache.Manager\obj\Debug\CF.Cache.Manager.csprojAssemblyReference.cache
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Cache.Manager\obj\Debug\CF.Cache.Manager.csproj.CoreCompileInputs.cache
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Cache.Manager\obj\Debug\CF.Cache.Manager.csproj.CopyComplete
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Cache.Manager\obj\Debug\CF.Cache.Manager.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Cache.Manager\obj\Debug\CF.Cache.Manager.pdb

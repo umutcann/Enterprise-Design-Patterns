@@ -7,3 +7,12 @@ C:\Users\bilginc_user\source\repos\DeviceSystem\APP.Data.Entity\obj\Debug\APP.Da
 C:\Users\bilginc_user\source\repos\DeviceSystem\APP.Data.Entity\obj\Debug\APP.Data.Entity.csproj.CopyComplete
 C:\Users\bilginc_user\source\repos\DeviceSystem\APP.Data.Entity\obj\Debug\APP.Data.Entity.dll
 C:\Users\bilginc_user\source\repos\DeviceSystem\APP.Data.Entity\obj\Debug\APP.Data.Entity.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Data.Entity\bin\Debug\APP.Data.Entity.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Data.Entity\bin\Debug\APP.Data.Entity.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Data.Entity\bin\Debug\CF.Data.Infrastructure.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Data.Entity\bin\Debug\CF.Data.Infrastructure.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Data.Entity\obj\Debug\APP.Data.Entity.csprojAssemblyReference.cache
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Data.Entity\obj\Debug\APP.Data.Entity.csproj.CoreCompileInputs.cache
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Data.Entity\obj\Debug\APP.Data.Entity.csproj.CopyComplete
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Data.Entity\obj\Debug\APP.Data.Entity.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Data.Entity\obj\Debug\APP.Data.Entity.pdb

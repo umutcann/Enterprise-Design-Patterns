@@ -1,4 +1,4 @@
-﻿using APP.Data.Repository.Manager;
+﻿using APP.Business.BusinessManager;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,12 +11,12 @@ namespace APP.TestConsole
     {
         static void Main(string[] args)
         {
-            var repo = RepositoryContainer.GetRepository();
-            var data = repo.GetAllItems();
+            DeviceManager manager = new DeviceManager();
+            var list = manager.getMainDevices();
 
-            foreach (var item in data)
+            foreach(var device in list)
             {
-                Console.WriteLine(item.DeviceName);
+                Console.WriteLine("Device Name : " + device.DeviceName);
             }
             Console.ReadLine();
         }
