@@ -48,6 +48,10 @@
       <Project>{AC0AB055-FC5A-456E-912C-DC67085502CA}</Project>
       <Name>APP.Business.Operation.DeviceOperation</Name>
     </ProjectReference>
+    <ProjectReference Include="..\APP.Model.DTO\APP.Model.DTO.csproj">
+      <Project>{a0f8640a-a152-4ccb-849a-131dbc426c76}</Project>
+      <Name>APP.Model.DTO</Name>
+    </ProjectReference>
     <ProjectReference Include="..\APP.Model.WebModel\APP.Model.WebModel.csproj">
       <Project>{22bb7f05-418b-483e-838c-65fb900b3bb5}</Project>
       <Name>APP.Model.WebModel</Name>

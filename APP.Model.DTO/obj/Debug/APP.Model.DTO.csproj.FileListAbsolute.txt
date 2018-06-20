@@ -1,0 +1,6 @@
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Model.DTO\bin\Debug\APP.Model.DTO.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Model.DTO\bin\Debug\APP.Model.DTO.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Model.DTO\obj\Debug\APP.Model.DTO.csproj.CoreCompileInputs.cache
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Model.DTO\obj\Debug\APP.Model.DTO.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Model.DTO\obj\Debug\APP.Model.DTO.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Model.DTO\obj\Debug\APP.Model.DTO.csprojAssemblyReference.cache

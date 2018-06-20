@@ -102,3 +102,9 @@ C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.UI.MVCUI\bi
 C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.UI.MVCUI\bin\CF.Cache.Infrastucture.pdb
 C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.UI.MVCUI\bin\CF.Cache.Manager.pdb
 C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.UI.MVCUI\bin\CF.Cache.Strategy.Memory.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.UI.MVCUI\bin\APP.Model.DTO.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.UI.MVCUI\bin\APP.Business.Operation.DevicePlugin.Manager.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.UI.MVCUI\bin\APP.Business.Operation.DevicePlugin.Infrastructure.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.UI.MVCUI\bin\APP.Model.DTO.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.UI.MVCUI\bin\APP.Business.Operation.DevicePlugin.Manager.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.UI.MVCUI\bin\APP.Business.Operation.DevicePlugin.Infrastructure.pdb

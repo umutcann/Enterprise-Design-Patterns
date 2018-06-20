@@ -1,4 +1,5 @@
 ﻿using APP.Business.Operation.DeviceOperation;
+using APP.Model.DTO;
 using APP.Model.WebModel;
 using CF.Cache.Manager;
 using CF.Exception.DataException;
@@ -32,10 +33,20 @@ namespace APP.Business.BusinessManager
             return cacheStrategy.CheckKey("DeviceList");
         }
 
+
+        public List<UserDTO> GetUsersFromDevices()
+        {
+            
+            DeviceOperation operation = new DeviceOperation();
+            return operation.GetAllUsersFromDevice();
+            
+        }
+
         public List<DeviceModel> getMainDevices()
         {
             try
             {
+
 
                 DeviceOperation deviceOperation = new DeviceOperation();
                 if (!ChechCache())

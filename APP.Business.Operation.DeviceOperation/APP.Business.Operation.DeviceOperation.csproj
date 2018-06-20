@@ -44,6 +44,14 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\APP.Business.Operation.DevicePlugin.Infrastructure\APP.Business.Operation.DevicePlugin.Infrastructure.csproj">
+      <Project>{33fe132c-65ed-4bde-823f-9d0d4a800f2a}</Project>
+      <Name>APP.Business.Operation.DevicePlugin.Infrastructure</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\APP.Business.Operation.DevicePlugin.Manager\APP.Business.Operation.DevicePlugin.Manager.csproj">
+      <Project>{DBB36BDF-4450-4694-B212-BFA5383D9DF2}</Project>
+      <Name>APP.Business.Operation.DevicePlugin.Manager</Name>
+    </ProjectReference>
     <ProjectReference Include="..\APP.Data.Entity\APP.Data.Entity.csproj">
       <Project>{aca3f34c-7445-4901-a764-39a44d43019d}</Project>
       <Name>APP.Data.Entity</Name>
@@ -59,6 +67,10 @@
     <ProjectReference Include="..\APP.Data.Repository.Manager\APP.Data.Repository.Manager.csproj">
       <Project>{22af99ad-ea4e-414d-b7f4-049ba2b3b334}</Project>
       <Name>APP.Data.Repository.Manager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\APP.Model.DTO\APP.Model.DTO.csproj">
+      <Project>{A0F8640A-A152-4CCB-849A-131DBC426C76}</Project>
+      <Name>APP.Model.DTO</Name>
     </ProjectReference>
     <ProjectReference Include="..\APP.Model.WebModel\APP.Model.WebModel.csproj">
       <Project>{22bb7f05-418b-483e-838c-65fb900b3bb5}</Project>

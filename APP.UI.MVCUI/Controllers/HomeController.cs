@@ -26,5 +26,12 @@ namespace APP.UI.MVCUI.Controllers
             var model = manager.getMainDevices();
             return View(model);
         }
+
+        public ActionResult UsersFromDevices()
+        {
+            DeviceManager manager = new DeviceManager();
+            var model = manager.GetUsersFromDevices();
+            return View(model);
+        }
     }
 }

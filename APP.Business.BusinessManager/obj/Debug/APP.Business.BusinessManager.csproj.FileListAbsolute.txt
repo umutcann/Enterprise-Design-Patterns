@@ -34,3 +34,9 @@ C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Business.Bu
 C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Business.BusinessManager\bin\Debug\CF.Cache.Infrastucture.pdb
 C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Business.BusinessManager\bin\Debug\CF.Cache.Manager.pdb
 C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Business.BusinessManager\bin\Debug\CF.Cache.Strategy.Memory.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Business.BusinessManager\bin\Debug\APP.Model.DTO.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Business.BusinessManager\bin\Debug\APP.Business.Operation.DevicePlugin.Manager.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Business.BusinessManager\bin\Debug\APP.Business.Operation.DevicePlugin.Infrastructure.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Business.BusinessManager\bin\Debug\APP.Model.DTO.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Business.BusinessManager\bin\Debug\APP.Business.Operation.DevicePlugin.Manager.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Business.BusinessManager\bin\Debug\APP.Business.Operation.DevicePlugin.Infrastructure.pdb

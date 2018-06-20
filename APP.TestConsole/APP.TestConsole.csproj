@@ -60,9 +60,25 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\APP.Business.BusinessManager\APP.Business.BusinessManager.csproj">
-      <Project>{ffa98c24-fb9d-4410-8665-b429f1e973d8}</Project>
-      <Name>APP.Business.BusinessManager</Name>
+    <ProjectReference Include="..\APP.Business.Operation.DevicePlugin.Infrastructure\APP.Business.Operation.DevicePlugin.Infrastructure.csproj">
+      <Project>{33fe132c-65ed-4bde-823f-9d0d4a800f2a}</Project>
+      <Name>APP.Business.Operation.DevicePlugin.Infrastructure</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\APP.Business.Operation.DevicePlugin.Manager\APP.Business.Operation.DevicePlugin.Manager.csproj">
+      <Project>{dbb36bdf-4450-4694-b212-bfa5383d9df2}</Project>
+      <Name>APP.Business.Operation.DevicePlugin.Manager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\APP.Business.Operation.DevicePlugin.SDK.DeviceSDK1\APP.Business.Operation.DevicePlugin.SDK.DeviceSDK1.csproj">
+      <Project>{d69e1086-24a5-4c18-8de4-6a6896289323}</Project>
+      <Name>APP.Business.Operation.DevicePlugin.SDK.DeviceSDK1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\APP.Business.Operation.DevicePlugin.SDK.DeviceSDK2\APP.Business.Operation.DevicePlugin.SDK.DeviceSDK2.csproj">
+      <Project>{5316098d-bb38-4f1c-a78b-3349d117cfa0}</Project>
+      <Name>APP.Business.Operation.DevicePlugin.SDK.DeviceSDK2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\APP.Model.DTO\APP.Model.DTO.csproj">
+      <Project>{a0f8640a-a152-4ccb-849a-131dbc426c76}</Project>
+      <Name>APP.Model.DTO</Name>
     </ProjectReference>
     <ProjectReference Include="..\APP.Model.WebModel\APP.Model.WebModel.csproj">
       <Project>{22bb7f05-418b-483e-838c-65fb900b3bb5}</Project>

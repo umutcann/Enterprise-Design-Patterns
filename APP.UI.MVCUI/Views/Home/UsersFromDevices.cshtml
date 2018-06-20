@@ -1,0 +1,21 @@
+﻿@model List<APP.Model.DTO.UserDTO>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Devices</title>
+</head>
+<body>
+    <div> 
+        @foreach(var item in Model)
+        {
+            @item.UserId <br/>
+        }
+    </div>
+</body>
+</html>

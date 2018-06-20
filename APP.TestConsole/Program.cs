@@ -1,4 +1,5 @@
-﻿using APP.Business.BusinessManager;
+﻿using APP.Business.Operation.DevicePlugin.Manager;
+using APP.Model.DTO;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,13 +13,20 @@ namespace APP.TestConsole
         static void Main(string[] args)
         {
             DeviceManager manager = new DeviceManager();
-            var list = manager.getMainDevices();
+            List<DeviceDTO> devices = new List<DeviceDTO>();
 
-            foreach(var device in list)
+            devices.Add(new DeviceDTO() { DeviceName = "Device1", SDKNumber = "1" });
+            devices.Add(new DeviceDTO() { DeviceName = "Device2", SDKNumber = "2" });
+
+           var users = manager.GetAllUser(devices);
+
+            foreach (var user in users)
             {
-                Console.WriteLine("Device Name : " + device.DeviceName);
+                Console.WriteLine(user.UserId);
             }
+
             Console.ReadLine();
+
         }
     }
 }

@@ -1,0 +1,11 @@
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Business.Operation.DevicePlugin.Manager\bin\Debug\APP.Business.Operation.DevicePlugin.Manager.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Business.Operation.DevicePlugin.Manager\bin\Debug\APP.Business.Operation.DevicePlugin.Manager.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Business.Operation.DevicePlugin.Manager\bin\Debug\APP.Business.Operation.DevicePlugin.Infrastructure.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Business.Operation.DevicePlugin.Manager\bin\Debug\APP.Model.DTO.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Business.Operation.DevicePlugin.Manager\bin\Debug\APP.Business.Operation.DevicePlugin.Infrastructure.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Business.Operation.DevicePlugin.Manager\bin\Debug\APP.Model.DTO.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Business.Operation.DevicePlugin.Manager\obj\Debug\APP.Business.Operation.DevicePlugin.Manager.csprojAssemblyReference.cache
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Business.Operation.DevicePlugin.Manager\obj\Debug\APP.Business.Operation.DevicePlugin.Manager.csproj.CoreCompileInputs.cache
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Business.Operation.DevicePlugin.Manager\obj\Debug\APP.Business.Operation.DevicePlugin.Manager.csproj.CopyComplete
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Business.Operation.DevicePlugin.Manager\obj\Debug\APP.Business.Operation.DevicePlugin.Manager.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Business.Operation.DevicePlugin.Manager\obj\Debug\APP.Business.Operation.DevicePlugin.Manager.pdb

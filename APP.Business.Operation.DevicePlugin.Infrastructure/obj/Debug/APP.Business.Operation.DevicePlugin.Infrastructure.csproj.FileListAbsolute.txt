@@ -1,0 +1,5 @@
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Business.Operation.DevicePlugin.Infrastructure\bin\Debug\APP.Business.Operation.DevicePlugin.Infrastructure.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Business.Operation.DevicePlugin.Infrastructure\bin\Debug\APP.Business.Operation.DevicePlugin.Infrastructure.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Business.Operation.DevicePlugin.Infrastructure\obj\Debug\APP.Business.Operation.DevicePlugin.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Business.Operation.DevicePlugin.Infrastructure\obj\Debug\APP.Business.Operation.DevicePlugin.Infrastructure.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Business.Operation.DevicePlugin.Infrastructure\obj\Debug\APP.Business.Operation.DevicePlugin.Infrastructure.pdb
