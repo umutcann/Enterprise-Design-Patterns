@@ -108,3 +108,13 @@ C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.UI.MVCUI\bi
 C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.UI.MVCUI\bin\APP.Model.DTO.pdb
 C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.UI.MVCUI\bin\APP.Business.Operation.DevicePlugin.Manager.pdb
 C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.UI.MVCUI\bin\APP.Business.Operation.DevicePlugin.Infrastructure.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.UI.MVCUI\bin\APP.Log.Manager.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.UI.MVCUI\bin\CF.Log.Manager.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.UI.MVCUI\bin\CF.Log.Model.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.UI.MVCUI\bin\CF.Log.Infrastructure.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.UI.MVCUI\bin\CF.Log.Strategy.DBLogStrategy.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.UI.MVCUI\bin\APP.Log.Manager.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.UI.MVCUI\bin\CF.Log.Manager.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.UI.MVCUI\bin\CF.Log.Model.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.UI.MVCUI\bin\CF.Log.Infrastructure.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.UI.MVCUI\bin\CF.Log.Strategy.DBLogStrategy.pdb

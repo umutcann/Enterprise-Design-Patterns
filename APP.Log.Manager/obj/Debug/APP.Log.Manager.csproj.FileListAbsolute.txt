@@ -1,0 +1,15 @@
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Log.Manager\bin\Debug\APP.Log.Manager.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Log.Manager\bin\Debug\APP.Log.Manager.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Log.Manager\bin\Debug\CF.Log.Infrastructure.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Log.Manager\bin\Debug\CF.Log.Manager.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Log.Manager\bin\Debug\CF.Log.Model.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Log.Manager\bin\Debug\CF.Log.Strategy.DBLogStrategy.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Log.Manager\bin\Debug\CF.Log.Infrastructure.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Log.Manager\bin\Debug\CF.Log.Manager.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Log.Manager\bin\Debug\CF.Log.Model.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Log.Manager\bin\Debug\CF.Log.Strategy.DBLogStrategy.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Log.Manager\obj\Debug\APP.Log.Manager.csprojAssemblyReference.cache
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Log.Manager\obj\Debug\APP.Log.Manager.csproj.CoreCompileInputs.cache
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Log.Manager\obj\Debug\APP.Log.Manager.csproj.CopyComplete
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Log.Manager\obj\Debug\APP.Log.Manager.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\APP.Log.Manager\obj\Debug\APP.Log.Manager.pdb

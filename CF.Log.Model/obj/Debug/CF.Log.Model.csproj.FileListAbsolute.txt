@@ -1,0 +1,9 @@
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Log.Model\bin\Debug\CF.Log.Model.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Log.Model\bin\Debug\CF.Log.Model.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Log.Model\bin\Debug\CF.Log.Infrastructure.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Log.Model\bin\Debug\CF.Log.Infrastructure.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Log.Model\obj\Debug\CF.Log.Model.csprojAssemblyReference.cache
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Log.Model\obj\Debug\CF.Log.Model.csproj.CoreCompileInputs.cache
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Log.Model\obj\Debug\CF.Log.Model.csproj.CopyComplete
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Log.Model\obj\Debug\CF.Log.Model.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Log.Model\obj\Debug\CF.Log.Model.pdb

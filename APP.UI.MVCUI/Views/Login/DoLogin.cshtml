@@ -1,0 +1,23 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>DoLogin</title>
+</head>
+<body>
+    <div> 
+        <form method="post" action="@Url.Action("DoLogin","Login",new { })">
+            <input type="text" name="username" /> <br />
+            <input type="text" name="password" /> <br />
+            <input type="submit" value="Giriş" /> 
+
+        </form>
+    </div>
+</body>
+</html>

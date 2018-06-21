@@ -1,5 +1,7 @@
 ﻿using APP.Business.Operation.DevicePlugin.Manager;
 using APP.Model.DTO;
+using CF.Log.Manager;
+using CF.Log.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,19 +14,14 @@ namespace APP.TestConsole
     {
         static void Main(string[] args)
         {
-            DeviceManager manager = new DeviceManager();
-            List<DeviceDTO> devices = new List<DeviceDTO>();
-
-            devices.Add(new DeviceDTO() { DeviceName = "Device1", SDKNumber = "1" });
-            devices.Add(new DeviceDTO() { DeviceName = "Device2", SDKNumber = "2" });
-
-           var users = manager.GetAllUser(devices);
-
-            foreach (var user in users)
+            LogShell.WriteLog(new DBLogData()
             {
-                Console.WriteLine(user.UserId);
-            }
+                LogDate = DateTime.Now,
+                LogMessage = "error",
+                User = "DKare"
+            });
 
+            Console.WriteLine("Eklendi.");
             Console.ReadLine();
 
         }

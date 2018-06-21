@@ -101,6 +101,7 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -110,6 +111,7 @@
     <Content Include="Views\web.config" />
     <None Include="packages.config" />
     <Content Include="Views\Home\UsersFromDevices.cshtml" />
+    <Content Include="Views\Login\DoLogin.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -119,12 +121,17 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Attributes\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\APP.Business.BusinessManager\APP.Business.BusinessManager.csproj">
       <Project>{FFA98C24-FB9D-4410-8665-B429F1E973D8}</Project>
       <Name>APP.Business.BusinessManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\APP.Log.Manager\APP.Log.Manager.csproj">
+      <Project>{274dcd81-86a8-495e-83cf-8bb63db889bb}</Project>
+      <Name>APP.Log.Manager</Name>
     </ProjectReference>
     <ProjectReference Include="..\APP.Model.DTO\APP.Model.DTO.csproj">
       <Project>{a0f8640a-a152-4ccb-849a-131dbc426c76}</Project>
@@ -133,6 +140,10 @@
     <ProjectReference Include="..\APP.Model.WebModel\APP.Model.WebModel.csproj">
       <Project>{22bb7f05-418b-483e-838c-65fb900b3bb5}</Project>
       <Name>APP.Model.WebModel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CF.Log.Manager\CF.Log.Manager.csproj">
+      <Project>{58EE54F8-CFD7-45C0-AEF9-FC3F58D1D758}</Project>
+      <Name>CF.Log.Manager</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

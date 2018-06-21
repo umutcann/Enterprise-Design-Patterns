@@ -1,0 +1,6 @@
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Log.Infrastructure\bin\Debug\CF.Log.Infrastructure.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Log.Infrastructure\bin\Debug\CF.Log.Infrastructure.pdb
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Log.Infrastructure\obj\Debug\CF.Log.Infrastructure.csprojAssemblyReference.cache
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Log.Infrastructure\obj\Debug\CF.Log.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Log.Infrastructure\obj\Debug\CF.Log.Infrastructure.dll
+C:\Users\bilginc_user\Desktop\Project\Enterprise-Design-Patterns\CF.Log.Infrastructure\obj\Debug\CF.Log.Infrastructure.pdb

@@ -84,6 +84,18 @@
       <Project>{22bb7f05-418b-483e-838c-65fb900b3bb5}</Project>
       <Name>APP.Model.WebModel</Name>
     </ProjectReference>
+    <ProjectReference Include="..\CF.Log.Infrastructure\CF.Log.Infrastructure.csproj">
+      <Project>{0eebfe9d-6562-43c0-b12b-b636d29764ce}</Project>
+      <Name>CF.Log.Infrastructure</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CF.Log.Manager\CF.Log.Manager.csproj">
+      <Project>{58ee54f8-cfd7-45c0-aef9-fc3f58d1d758}</Project>
+      <Name>CF.Log.Manager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CF.Log.Model\CF.Log.Model.csproj">
+      <Project>{9af9be40-f632-4c8b-b795-a618182305fa}</Project>
+      <Name>CF.Log.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
